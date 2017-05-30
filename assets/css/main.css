@@ -29,8 +29,24 @@ header{
 	left: 35%;
 }
 .col-12{
-	background-image: url(http://lorempixel.com/1024/600/cats/);
+	background-image: url(http://3.bp.blogspot.com/_R9e_jdNP_hw/TEp-vjIszfI/AAAAAAAAAAY/eErnawUnmDI/s1600/panda3.jpg);
 	height: 50vh;
 	background-position: center;
 	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	color: #FFFFFF;
+	font-size: 3em;
+}
+.boton{
+	float: right;
+	background-color: #E54E79;
+	width: 100px;
+	border-radius: 15px;
+	font-family: 'Raleway', sans-serif;
+	color: #FFFFFF;
+	font-size: 1em;
+}
+.col-4 p{
+	font-family: 'Raleway', sans-serif;
+	color: #75726C;
 }
